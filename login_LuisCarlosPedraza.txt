@@ -1,0 +1,6 @@
+Nombre: Luis Carlos Pedraza
+Codigo: 202369678
+Curso: DS2
+Sede: Zarzal
+Grupo: 51
+x
