@@ -1,0 +1,5 @@
+Nombre: Pepito Perez
+Código: xxxxxxxx
+Curso: DS2
+Sede:  Zarzal
+Grupo: 51
